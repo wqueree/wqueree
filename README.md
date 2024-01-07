@@ -1,8 +1,8 @@
-- 👋  Hi, I’m @wqueree and I'm a Computer Science student at the University of Bath, currently looking for graduate roles in machine learning, data science, quantitative analysis, and software engineering.
+- 👋  Hi, I’m @wqueree and I'm a Computer Science Graduate with a degree from the University of Bath, currently looking for C++ roles.
 
 
 <!---
-- 🌱  I’m currently learning about machine learning and data science concepts alongside my work tudies.
+- 🌱  I’m currently learning about machine learning and data science concepts alongside my studies.
 - 📫  I'm currently looking for graduate roles in machine learning and data science so please get in touch (wqueree@gmail.com) if you think I would be a good fit for any roles!
 - 💞️  I’m looking to collaborate on ...
 
